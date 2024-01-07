@@ -1,0 +1,36 @@
+{
+    "id": "gatocraft",
+    "name": "Gatocraft Network",
+    "store": "https://shop.gatocraft.org/",
+    "addresses": [
+        "gatocraft.org"
+    ],
+    "primaryAddress": "gatocraft.org",
+    "primaryColor": "#1b7198",
+    "secondaryColor": "#4a5458",
+    "minecraftVersions": [
+        "1.16.*",
+        "1.17.*",
+        "1.18.*",
+        "1.19.*",
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.1",
+    "crossplay": true,
+    "primaryRegion": "ES",
+    "regions": [
+        "ES"
+    ],
+    "primaryLanguage": "es",
+    "languages": [
+        "es"
+    ],
+    "gameTypes": [
+        "Boxpvp"
+    ],
+    "socials": {
+        "twitter": "GatocraftMC",
+        "discord": "https://discord.gg/2MK46RSr",
+        "tiktok": "gatocraftnetwork"
+    }
+}
